@@ -25,6 +25,10 @@ Hello World!
 |:----|:----:|----:|
 |0624094|185|70|
 
+|嗨嗨|你好|哈囉|
+|:------|:-------:|------:|
+|1|2|3|
+
 ![XI](images.jpg "Xi Da Da")
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
