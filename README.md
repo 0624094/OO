@@ -21,12 +21,10 @@
 Hello World!
 ```
 
-[高科大](https://www.nkust.edu.tw/):smirk:
-
 |學號|身高|體重|
 |:----|:----:|----:|
 |0624094|185|70|
 
-![NKFUST](nkust.jpg "第一科大")
+![XI](images.jpg "Xi Da Da")
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
