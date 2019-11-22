@@ -1,0 +1,37 @@
+abstract class CShape
+{
+    protected String color;
+
+    public void set_Color(String str)
+    {
+        color=str;
+    }
+    public abstract void show();
+}
+
+ class CTriangle extends Cshape
+{
+    protected double a,b,c;
+    public CTriangle(double a,doucle b,double c)
+    {
+        this.a = a;
+        this.b = b;
+        this.c = c;
+    }
+}
+
+public void show()
+{
+    System.out.println("color="+color+",");
+    System.out.println("area="+0.5*a*b);
+}
+
+public class app11_1
+{   
+    public static void main(String args[])
+    {
+        CTriangle tri=new CTriangle(3,4,5);
+        tri.set_Color("Red");
+        tri.show();        
+    }
+}
